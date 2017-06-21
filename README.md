@@ -5,4 +5,4 @@ This resource pack makes the wolf texture stay the same as vanilla minecraft and
 Go to the releases and click on wolfpack.zip, it should download.
 
 # How to Install
-First, extract the folder and then copy the extracted folder. Then go to C:\Users\%username%\AppData\Roaming\.minecraft\resourcepacks\ once there right click and hit paste. Then load up minecraft and choose the resource pack!
+First, extract the folder and then go into the folder and copy the Wolf Pack folder. Then go to C:\Users\%username%\AppData\Roaming\.minecraft\resourcepacks\ once there right click and hit paste. Then load up minecraft and choose the resource pack!
